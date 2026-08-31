@@ -5,7 +5,8 @@
   "description": "Reverse-engineered LinkedIn profile API built as part of the Tross Software Engineer assignment.",
   "type": "module",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && npm run copy-fixtures",
+    "copy-fixtures": "mkdir -p dist/data/fixtures && cp src/data/fixtures/*.json dist/data/fixtures/",
     "start": "node dist/server.js",
     "dev": "tsx watch src/server.ts",
     "test": "vitest run",
