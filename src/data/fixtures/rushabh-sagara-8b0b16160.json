@@ -1,0 +1,49 @@
+{
+    "vanityName": "rushabh-sagara-8b0b16160",
+    "name": "Rushabh Sagara",
+    "headline": "Full Stack AI Developer | Working with Startups and Agent Builders | Automation Enthusiast | React, Blitz.js, PostgreSQL, Stripe | Trusted by Founders | AI-Enabled Product Dev",
+    "location": "Ahmedabad, Gujarat, India",
+    "about": "Aspiring software engineer with an interest in backend systems and API design. Currently exploring distributed systems and developer tooling.",
+    "experience": [
+      {
+        "title": "Software Engineering Intern",
+        "company": "Sample Tech Solutions",
+        "employmentType": "Internship",
+        "location": "Ahmedabad, India",
+        "startDate": "2025-06",
+        "endDate": null,
+        "current": true,
+        "description": "Worked on internal tooling and API development using Node.js and TypeScript."
+      }
+    ],
+    "education": [
+      {
+        "school": "Institute of Infrastructure Technology Research and Management",
+        "degree": "Bachelor's Degree",
+        "fieldOfStudy": "Computer Science",
+        "startDate": "2022-06",
+        "endDate": "2026-05",
+        "description": null
+      }
+    ],
+    "skills": ["TypeScript", "Node.js", "REST APIs", "Git", "Problem Solving"],
+    "certifications": [
+      {
+        "name": "Introduction to Backend Development",
+        "issuingOrganization": "Sample Learning Platform",
+        "issueDate": "2024-11",
+        "expirationDate": null,
+        "credentialId": "SAMPLE-CERT-001",
+        "credentialUrl": null
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Professional working proficiency" },
+      { "name": "Gujarati", "proficiency": "Native or bilingual proficiency" }
+    ],
+    "images": {
+      "profilePictureUrl": null,
+      "backgroundImageUrl": null
+    }
+  }
+  

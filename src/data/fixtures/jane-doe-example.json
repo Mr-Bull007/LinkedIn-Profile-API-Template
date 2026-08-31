@@ -1,0 +1,59 @@
+{
+    "vanityName": "jane-doe-example",
+    "name": "Jane Doe",
+    "headline": "Senior Backend Engineer at Example Corp",
+    "location": "Bengaluru, Karnataka, India",
+    "about": "Backend engineer with 6+ years of experience building scalable APIs and data pipelines. Passionate about developer experience and clean architecture.",
+    "experience": [
+      {
+        "title": "Senior Backend Engineer",
+        "company": "Example Corp",
+        "employmentType": "Full-time",
+        "location": "Bengaluru, India",
+        "startDate": "2022-01",
+        "endDate": null,
+        "current": true,
+        "description": "Leading the platform team responsible for internal API infrastructure."
+      },
+      {
+        "title": "Backend Engineer",
+        "company": "Prior Startup Inc.",
+        "employmentType": "Full-time",
+        "location": "Pune, India",
+        "startDate": "2019-03",
+        "endDate": "2021-12",
+        "current": false,
+        "description": "Built and maintained microservices handling payments and notifications."
+      }
+    ],
+    "education": [
+      {
+        "school": "Example Institute of Technology",
+        "degree": "Bachelor of Engineering",
+        "fieldOfStudy": "Information Technology",
+        "startDate": "2015-06",
+        "endDate": "2019-05",
+        "description": null
+      }
+    ],
+    "skills": ["Node.js", "TypeScript", "PostgreSQL", "System Design", "Kubernetes", "API Design"],
+    "certifications": [
+      {
+        "name": "AWS Certified Solutions Architect – Associate",
+        "issuingOrganization": "Amazon Web Services",
+        "issueDate": "2023-04",
+        "expirationDate": "2026-04",
+        "credentialId": "AWS-EXAMPLE-12345",
+        "credentialUrl": "https://example.com/verify/AWS-EXAMPLE-12345"
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Full professional proficiency" },
+      { "name": "Hindi", "proficiency": "Native or bilingual proficiency" }
+    ],
+    "images": {
+      "profilePictureUrl": null,
+      "backgroundImageUrl": null
+    }
+  }
+  
